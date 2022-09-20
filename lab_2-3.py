@@ -11,3 +11,4 @@ print (a)
 
 a = bool(a)
 print (a ==2)
+#The computer thinks that a is equal to 2 and to true, but true cannot be equal to false. 
