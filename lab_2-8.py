@@ -1,7 +1,6 @@
 #Author: Sean Salafia 9/21/22
 
-x = 8
-
+x = int (input('Input score to see if you should give up on your dreams!'))
 
 
 if x <= 8: 
